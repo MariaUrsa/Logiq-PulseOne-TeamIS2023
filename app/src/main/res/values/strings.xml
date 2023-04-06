@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Authentification&amp;LoginPulseOneApp</string>
+    <string name="started_title">AUTENTIFICARE</string>
+    <string name="started_sub_title">
+        Bine ati venit!
+        <br><b>Logativa </b> in sistem daca deja aveti un cont.</br>
+        <br><b>Inregistrativa</b> pentru a putea utiliza aplicatia.</br>
+    </string>
+    <string name="btn_register">INREGISTRARE</string>
+</resources>
